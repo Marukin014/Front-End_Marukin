@@ -1,0 +1,25 @@
+body{
+    background-image: url(/img/Greens.png);
+}
+header{
+        text-align: center;
+}
+.header-font{
+    color: #314827; 
+    font-size: 80; 
+    -webkit-text-stroke: 3px black;
+}
+.arrangement{
+    display: inline-flex; 
+    gap: 100px;
+}
+.Data-layout{
+    background-color: #314827; 
+    border-radius: 30px; 
+    padding: 10px;
+    height: 250;
+}
+.Data-layout-font{ 
+    background-color: white; 
+    border-radius: 10px;
+}
