@@ -17,9 +17,41 @@ header{
     background-color: #314827; 
     border-radius: 30px; 
     padding: 10px;
-    height: 250;
 }
 .Data-layout-font{ 
     background-color: white; 
     border-radius: 10px;
+    text-align: center;
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+
+.Data-layout1{
+    margin: auto;
+    background-color: #314827a2; 
+    border-radius: 30px; 
+    padding: 10px;
+    width: 1200px;
+    height: 580px;
+}
+.Data-layout-font1{ 
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.image1{
+    margin: auto;
+    display: flex;
+    max-width: 350px;
+    max-height: 350px;
+}
+.imageback{
+    width: 60px;
+    height: 60px;
 }
